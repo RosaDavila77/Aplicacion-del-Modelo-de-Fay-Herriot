@@ -6,6 +6,8 @@ Proyecto desarrollado para la asignatura **Técnicas de Muestreo** de la **Unive
 
 Debido a los reducidos tamaños muestrales en algunos distritos, las estimaciones directas presentan una elevada variabilidad o no pueden ser calculadas. Para solucionar este problema se aplica el **modelo de Fay-Herriot**, una metodología de estimación en áreas pequeñas que combina las estimaciones directas de la **ENAHO** con información auxiliar proveniente del **Censo Nacional 2017**.
 
+![Clasificación socioeconómica de Lima](imagenes/7Z1pk2mdUa4IBlqetf1_iuFF1mLkHjBZIZPvbefXcTV0UNNgzc_VfNZ-Lc9Tb2AtcZI0HVlu13_T9Fp_gWRqGVUmvzJ0ThdjRTyMtd0qZhB3NsIzHSutA6Ir72Z2BPIXVBad-CQtjvR3vOquxDNhbHgNQ.jpg)
+
 ## Metodología
 
 * Obtención de información de ingresos familiares mediante la **ENAHO 2019–2024**.
