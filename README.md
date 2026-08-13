@@ -46,5 +46,7 @@ Asimismo, se identificaron diferencias importantes en la evolución de los ingre
 ## Autores
 
 **Rosa Davila Ponce**
+
 **Angelo De la Cruz Paucar**
+
 **Mauricio Rico Peña**
