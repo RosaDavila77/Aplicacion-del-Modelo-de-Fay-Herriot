@@ -33,6 +33,7 @@ Se incorporaron variables provenientes del Censo, considerando:
 
 - Semana de trabajo
 - Conexión a internet
+  
 ╒═══════════════════╤════════════╤══════════╤═══════════╤═══════════╕
 │                   │       beta │       SE │   t_value │   p_value │
 ╞═══════════════════╪════════════╪══════════╪═══════════╪═══════════╡
@@ -57,6 +58,7 @@ Se combinaron las estimaciones directas con las predicciones del modelo
 mediante el factor de shrinkage (γ).
 
 **Resultado:**
+
 ╒════╤══════════╤═════════════════════════╤════════════╤═════════════╤═════════╤════════════╤════════════╕
 │    │   UBIGEO │ NOMBRE DEL DISTRITO     │   Y_direct │   SD_direct │   EBLUP │   SE_EBLUP │   CV_EBLUP │
 ╞════╪══════════╪═════════════════════════╪════════════╪═════════════╪═════════╪════════════╪════════════╡
