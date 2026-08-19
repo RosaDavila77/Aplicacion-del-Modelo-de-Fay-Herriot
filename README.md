@@ -8,7 +8,7 @@ Debido a los reducidos tamaños muestrales en algunos distritos, las estimacione
 
 ![Clasificación socioeconómica de Lima](imagenes/7Z1pk2mdUa4IBlqetf1_iuFF1mLkHjBZIZPvbefXcTV0UNNgzc_VfNZ-Lc9Tb2AtcZI0HVlu13_T9Fp_gWRqGVUmvzJ0ThdjRTyMtd0qZhB3NsIzHSutA6Ir72Z2BPIXVBad-CQtjvR3vOquxDNhbHgNQ.jpg)
 
-## 🔬 Metodología
+## Metodología
 
 ### 1. Procesamiento de la ENAHO
 
@@ -64,7 +64,7 @@ Tasa de inflación aplicada: 1.97%
 Los distritos fueron clasificados según los rangos de ingreso utilizados
 en el estudio.
 
-## 📊 Resultados
+## Resultados
 
 ### Clasificación socioeconómica
 **Todos los Distritos según EBLUP (Clasificación por Nivel de Ingreso)**
